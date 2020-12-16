@@ -1,0 +1,20 @@
+{
+  "name": "Mern_Comment_Box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ally-sorloth/Mern_Comment_Box.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ally-sorloth/Mern_Comment_Box/issues"
+  },
+  "homepage": "https://github.com/ally-sorloth/Mern_Comment_Box#readme"
+}
